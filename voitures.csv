@@ -1,206 +1,206 @@
 ,car_ID,etat_de_route,carburant,turbo,nombre_portes,type_vehicule,roues_motrices,emplacement_moteur,empattement,longueur_voiture,largeur_voiture,hauteur_voiture,poids_vehicule,type_moteur,nombre_cylindres,taille_moteur,systeme_carburant,taux_alésage,course,taux_compression,chevaux,tour_moteur,consommation_ville,consommation_autoroute,prix,marque,modele
-0,1,3,gas,standard,2,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9.0,111,5000,21,27,13495,alfa-romeo,giulia
-1,2,3,gas,standard,2,convertible,rwd,front,88.6,168.8,64.1,48.8,2548,dohc,four,130,mpfi,3.47,2.68,9.0,111,5000,21,27,16500,alfa-romeo,stelvio
-2,3,1,gas,standard,2,hatchback,rwd,front,94.5,171.2,65.5,52.4,2823,ohcv,six,152,mpfi,2.68,3.47,9.0,154,5000,19,26,16500,alfa-romeo,Quadrifoglio
-3,4,2,gas,standard,4,sedan,fwd,front,99.8,176.6,66.2,54.3,2337,ohc,four,109,mpfi,3.19,3.4,10.0,102,5500,24,30,13950,audi,100 ls
-4,5,2,gas,standard,4,sedan,4wd,front,99.4,176.6,66.4,54.3,2824,ohc,five,136,mpfi,3.19,3.4,8.0,115,5500,18,22,17450,audi,100ls
-5,6,2,gas,standard,2,sedan,fwd,front,99.8,177.3,66.3,53.1,2507,ohc,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,15250,audi,fox
-6,7,1,gas,standard,4,sedan,fwd,front,105.8,192.7,71.4,55.7,2844,ohc,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,17710,audi,100ls
-7,8,1,gas,standard,4,wagon,fwd,front,105.8,192.7,71.4,55.7,2954,ohc,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,18920,audi,5000
-8,9,1,gas,turbo,4,sedan,fwd,front,105.8,192.7,71.4,55.9,3086,ohc,five,131,mpfi,3.13,3.4,8.3,140,5500,17,20,23875,audi,4000
-9,10,0,gas,turbo,2,hatchback,4wd,front,99.5,178.2,67.9,52.0,3053,ohc,five,131,mpfi,3.13,3.4,7.0,160,5500,16,22,17859,audi,5000s (diesel)
-10,11,2,gas,standard,2,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16430,bmw,320i
-11,12,0,gas,standard,4,sedan,rwd,front,101.2,176.8,64.8,54.3,2395,ohc,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16925,bmw,320i
-12,13,0,gas,standard,2,sedan,rwd,front,101.2,176.8,64.8,54.3,2710,ohc,six,164,mpfi,3.31,3.19,9.0,121,4250,21,28,20970,bmw,x1
-13,14,0,gas,standard,4,sedan,rwd,front,101.2,176.8,64.8,54.3,2765,ohc,six,164,mpfi,3.31,3.19,9.0,121,4250,21,28,21105,bmw,x3
-14,15,1,gas,standard,4,sedan,rwd,front,103.5,189.0,66.9,55.7,3055,ohc,six,164,mpfi,3.31,3.19,9.0,121,4250,20,25,24565,bmw,z4
-15,16,0,gas,standard,4,sedan,rwd,front,103.5,189.0,66.9,55.7,3230,ohc,six,209,mpfi,3.62,3.39,8.0,182,5400,16,22,30760,bmw,x4
-16,17,0,gas,standard,2,sedan,rwd,front,103.5,193.8,67.9,53.7,3380,ohc,six,209,mpfi,3.62,3.39,8.0,182,5400,16,22,41315,bmw,x5
-17,18,0,gas,standard,4,sedan,rwd,front,110.0,197.0,70.9,56.3,3505,ohc,six,209,mpfi,3.62,3.39,8.0,182,5400,15,20,36880,bmw,x3
-18,19,2,gas,standard,2,hatchback,fwd,front,88.4,141.1,60.3,53.2,1488,l,three,61,2bbl,2.91,3.03,9.5,48,5100,47,53,5151,chevrolet,impala
-19,20,1,gas,standard,2,hatchback,fwd,front,94.5,155.9,63.6,52.0,1874,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6295,chevrolet,monte carlo
-20,21,0,gas,standard,4,sedan,fwd,front,94.5,158.8,63.6,52.0,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6575,chevrolet,vega 2300
-21,22,1,gas,standard,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,four,90,2bbl,2.97,3.23,9.41,68,5500,37,41,5572,dodge,rampage
-22,23,1,gas,standard,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,1876,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6377,dodge,challenger se
-23,24,1,gas,turbo,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,2128,ohc,four,98,mpfi,3.03,3.39,7.6,102,5500,24,30,7957,dodge,d200
-24,25,1,gas,standard,4,hatchback,fwd,front,93.7,157.3,63.8,50.6,1967,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,dodge,monaco (sw)
-25,26,1,gas,standard,4,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,dodge,colt hardtop
-26,27,1,gas,standard,4,sedan,fwd,front,93.7,157.3,63.8,50.6,1989,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,dodge,colt (sw)
-27,28,1,gas,turbo,2,sedan,fwd,front,93.7,157.3,63.8,50.6,2191,ohc,four,98,mpfi,3.03,3.39,7.6,102,5500,24,30,8558,dodge,coronet custom
-28,29,-1,gas,standard,4,wagon,fwd,front,103.3,174.6,64.6,59.8,2535,ohc,four,122,2bbl,3.34,3.46,8.5,88,5000,24,30,8921,dodge,dart custom
-29,30,3,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2811,ohc,four,156,mfi,3.6,3.9,7.0,145,5000,19,24,12964,dodge,coronet custom (sw)
-30,31,2,gas,standard,2,hatchback,fwd,front,86.6,144.6,63.9,50.8,1713,ohc,four,92,1bbl,2.91,3.41,9.6,58,4800,49,54,6479,honda,civic
-31,32,2,gas,standard,2,hatchback,fwd,front,86.6,144.6,63.9,50.8,1819,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,31,38,6855,honda,civic cvcc
-32,33,1,gas,standard,2,hatchback,fwd,front,93.7,150.0,64.0,52.6,1837,ohc,four,79,1bbl,2.91,3.07,10.1,60,5500,38,42,5399,honda,civic
-33,34,1,gas,standard,2,hatchback,fwd,front,93.7,150.0,64.0,52.6,1940,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,6529,honda,accord cvcc
-34,35,1,gas,standard,2,hatchback,fwd,front,93.7,150.0,64.0,52.6,1956,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7129,honda,civic cvcc
-35,36,0,gas,standard,4,sedan,fwd,front,96.5,163.4,64.0,54.5,2010,ohc,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7295,honda,accord lx
-36,37,0,gas,standard,4,wagon,fwd,front,96.5,157.1,63.9,58.3,2024,ohc,four,92,1bbl,2.92,3.41,9.2,76,6000,30,34,7295,honda,civic 1500 gl
-37,38,0,gas,standard,2,hatchback,fwd,front,96.5,167.5,65.2,53.3,2236,ohc,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,7895,honda,accord
-38,39,0,gas,standard,2,hatchback,fwd,front,96.5,167.5,65.2,53.3,2289,ohc,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,9095,honda,civic 1300
-39,40,0,gas,standard,4,sedan,fwd,front,96.5,175.4,65.2,54.1,2304,ohc,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,8845,honda,prelude
-40,41,0,gas,standard,4,sedan,fwd,front,96.5,175.4,62.5,54.1,2372,ohc,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,10295,honda,accord
-41,42,0,gas,standard,4,sedan,fwd,front,96.5,175.4,65.2,54.1,2465,ohc,four,110,mpfi,3.15,3.58,9.0,101,5800,24,28,12945,honda,civic
-42,43,1,gas,standard,2,sedan,fwd,front,96.5,169.1,66.0,51.0,2293,ohc,four,110,2bbl,3.15,3.58,9.1,100,5500,25,31,10345,honda,civic (auto)
-43,44,0,gas,standard,4,sedan,rwd,front,94.3,170.7,61.8,53.5,2337,ohc,four,111,2bbl,3.31,3.23,8.5,78,4800,24,29,6785,isuzu,MU-X
-44,45,1,gas,standard,2,sedan,fwd,front,94.5,155.9,63.6,52.0,1874,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,8916,isuzu,D-Max 
-45,46,0,gas,standard,4,sedan,fwd,front,94.5,155.9,63.6,52.0,1909,ohc,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,8916,isuzu,D-Max V-Cross
-46,47,2,gas,standard,2,hatchback,rwd,front,96.0,172.6,65.2,51.4,2734,ohc,four,119,spfi,3.43,3.23,9.2,90,5000,24,29,11048,isuzu,D-Max 
-47,48,0,gas,standard,4,sedan,rwd,front,113.0,199.6,69.6,52.8,4066,dohc,six,258,mpfi,3.63,4.17,8.1,176,4750,15,19,32250,jaguar,xj
-48,49,0,gas,standard,4,sedan,rwd,front,113.0,199.6,69.6,52.8,4066,dohc,six,258,mpfi,3.63,4.17,8.1,176,4750,15,19,35550,jaguar,xf
-49,50,0,gas,standard,2,sedan,rwd,front,102.0,191.7,70.6,47.8,3950,ohcv,twelve,326,mpfi,3.54,2.76,11.5,262,5000,13,17,36000,jaguar,xk
-50,51,1,gas,standard,2,hatchback,fwd,front,93.1,159.1,64.2,54.1,1890,ohc,four,91,2bbl,3.03,3.15,9.0,68,5000,30,31,5195,mazda,rx3
-51,52,1,gas,standard,2,hatchback,fwd,front,93.1,159.1,64.2,54.1,1900,ohc,four,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6095,mazda,glc deluxe
-52,53,1,gas,standard,2,hatchback,fwd,front,93.1,159.1,64.2,54.1,1905,ohc,four,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6795,mazda,rx2 coupe
-53,54,1,gas,standard,4,sedan,fwd,front,93.1,166.8,64.2,54.1,1945,ohc,four,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6695,mazda,rx-4
-54,55,1,gas,standard,4,sedan,fwd,front,93.1,166.8,64.2,54.1,1950,ohc,four,91,2bbl,3.08,3.15,9.0,68,5000,31,38,7395,mazda,glc deluxe
-55,56,3,gas,standard,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2380,rotor,two,70,4bbl,3.33,3.255,9.4,101,6000,17,23,10945,mazda,626
-56,57,3,gas,standard,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2380,rotor,two,70,4bbl,3.33,3.255,9.4,101,6000,17,23,11845,mazda,glc
-57,58,3,gas,standard,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2385,rotor,two,70,4bbl,3.33,3.255,9.4,101,6000,17,23,13645,mazda,rx-7 gs
-58,59,3,gas,standard,2,hatchback,rwd,front,95.3,169.0,65.7,49.6,2500,rotor,two,80,mpfi,3.33,3.255,9.4,135,6000,16,23,15645,mazda,glc 4
-59,60,1,gas,standard,2,hatchback,fwd,front,98.8,177.8,66.5,53.7,2385,ohc,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,8845,mazda,626
-60,61,0,gas,standard,4,sedan,fwd,front,98.8,177.8,66.5,55.5,2410,ohc,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,8495,mazda,glc custom l
-61,62,1,gas,standard,2,hatchback,fwd,front,98.8,177.8,66.5,53.7,2385,ohc,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,10595,mazda,glc custom
-62,63,0,gas,standard,4,sedan,fwd,front,98.8,177.8,66.5,55.5,2410,ohc,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,10245,mazda,rx-4
-63,64,0,diesel,standard,4,sedan,fwd,front,98.8,177.8,66.5,55.5,2443,ohc,four,122,idi,3.39,3.39,22.7,64,4650,36,42,10795,mazda,glc deluxe
-64,65,0,gas,standard,4,hatchback,fwd,front,98.8,177.8,66.5,55.5,2425,ohc,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,11245,mazda,626
-65,66,0,gas,standard,4,sedan,rwd,front,104.9,175.0,66.1,54.4,2670,ohc,four,140,mpfi,3.76,3.16,8.0,120,5000,19,27,18280,mazda,glc
-66,67,0,diesel,standard,4,sedan,rwd,front,104.9,175.0,66.1,54.4,2700,ohc,four,134,idi,3.43,3.64,22.0,72,4200,31,39,18344,mazda,rx-7 gs
-67,68,-1,diesel,turbo,4,sedan,rwd,front,110.0,190.9,70.3,56.5,3515,ohc,five,183,idi,3.58,3.64,21.5,123,4350,22,25,25552,buick,electra 225 custom
-68,69,-1,diesel,turbo,4,wagon,rwd,front,110.0,190.9,70.3,58.7,3750,ohc,five,183,idi,3.58,3.64,21.5,123,4350,22,25,28248,buick,century luxus (sw)
-69,70,0,diesel,turbo,2,hardtop,rwd,front,106.7,187.5,70.3,54.9,3495,ohc,five,183,idi,3.58,3.64,21.5,123,4350,22,25,28176,buick,century
-70,71,-1,diesel,turbo,4,sedan,rwd,front,115.6,202.6,71.7,56.3,3770,ohc,five,183,idi,3.58,3.64,21.5,123,4350,22,25,31600,buick,skyhawk
-71,72,-1,gas,standard,4,sedan,rwd,front,115.6,202.6,71.7,56.5,3740,ohcv,eight,234,mpfi,3.46,3.1,8.3,155,4750,16,18,34184,buick,opel isuzu deluxe
-72,73,3,gas,standard,2,convertible,rwd,front,96.6,180.3,70.5,50.8,3685,ohcv,eight,234,mpfi,3.46,3.1,8.3,155,4750,16,18,35056,buick,skylark
-73,74,0,gas,standard,4,sedan,rwd,front,120.9,208.1,71.7,56.7,3900,ohcv,eight,308,mpfi,3.8,3.35,8.0,184,4500,14,16,40960,buick,century special
-74,75,1,gas,standard,2,hardtop,rwd,front,112.0,199.2,72.0,55.4,3715,ohcv,eight,304,mpfi,3.8,3.35,8.0,184,4500,14,16,45400,buick,regal sport coupe (turbo)
-75,76,1,gas,turbo,2,hatchback,rwd,front,102.7,178.4,68.0,54.8,2910,ohc,four,140,mpfi,3.78,3.12,8.0,175,5000,19,24,16503,mercury,cougar
-76,77,2,gas,standard,2,hatchback,fwd,front,93.7,157.3,64.4,50.8,1918,ohc,four,92,2bbl,2.97,3.23,9.4,68,5500,37,41,5389,mitsubishi,mirage
-77,78,2,gas,standard,2,hatchback,fwd,front,93.7,157.3,64.4,50.8,1944,ohc,four,92,2bbl,2.97,3.23,9.4,68,5500,31,38,6189,mitsubishi,lancer
-78,79,2,gas,standard,2,hatchback,fwd,front,93.7,157.3,64.4,50.8,2004,ohc,four,92,2bbl,2.97,3.23,9.4,68,5500,31,38,6669,mitsubishi,outlander
-79,80,1,gas,turbo,2,hatchback,fwd,front,93.0,157.3,63.8,50.8,2145,ohc,four,98,spdi,3.03,3.39,7.6,102,5500,24,30,7689,mitsubishi,g4
-80,81,3,gas,turbo,2,hatchback,fwd,front,96.3,173.0,65.4,49.4,2370,ohc,four,110,spdi,3.17,3.46,7.5,116,5500,23,30,9959,mitsubishi,mirage g4
-81,82,3,gas,standard,2,hatchback,fwd,front,96.3,173.0,65.4,49.4,2328,ohc,four,122,2bbl,3.35,3.46,8.5,88,5000,25,32,8499,mitsubishi,g4
-82,83,3,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2833,ohc,four,156,spdi,3.58,3.86,7.0,145,5000,19,24,12629,mitsubishi,outlander
-83,84,3,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2921,ohc,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,14869,mitsubishi,g4
-84,85,3,gas,turbo,2,hatchback,fwd,front,95.9,173.2,66.3,50.2,2926,ohc,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,14489,mitsubishi,mirage g4
-85,86,1,gas,standard,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2365,ohc,four,122,2bbl,3.35,3.46,8.5,88,5000,25,32,6989,mitsubishi,montero
-86,87,1,gas,standard,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2405,ohc,four,122,2bbl,3.35,3.46,8.5,88,5000,25,32,8189,mitsubishi,pajero
-87,88,1,gas,turbo,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2403,ohc,four,110,spdi,3.17,3.46,7.5,116,5500,23,30,9279,mitsubishi,outlander
-88,89,-1,gas,standard,4,sedan,fwd,front,96.3,172.4,65.4,51.6,2403,ohc,four,110,spdi,3.17,3.46,7.5,116,5500,23,30,9279,mitsubishi,mirage g4
-89,90,1,gas,standard,2,sedan,fwd,front,94.5,165.3,63.8,54.5,1889,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,5499,nissan,versa
-90,91,1,diesel,standard,2,sedan,fwd,front,94.5,165.3,63.8,54.5,2017,ohc,four,103,idi,2.99,3.47,21.9,55,4800,45,50,7099,nissan,gt-r
-91,92,1,gas,standard,2,sedan,fwd,front,94.5,165.3,63.8,54.5,1918,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,6649,nissan,rogue
-92,93,1,gas,standard,4,sedan,fwd,front,94.5,165.3,63.8,54.5,1938,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,6849,nissan,latio
-93,94,1,gas,standard,4,wagon,fwd,front,94.5,170.2,63.8,53.5,2024,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7349,nissan,titan
-94,95,1,gas,standard,2,sedan,fwd,front,94.5,165.3,63.8,54.5,1951,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7299,nissan,leaf
-95,96,1,gas,standard,2,hatchback,fwd,front,94.5,165.6,63.8,53.3,2028,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7799,nissan,juke
-96,97,1,gas,standard,4,sedan,fwd,front,94.5,165.3,63.8,54.5,1971,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7499,nissan,latio
-97,98,1,gas,standard,4,wagon,fwd,front,94.5,170.2,63.8,53.5,2037,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7999,nissan,note
-98,99,2,gas,standard,2,hardtop,fwd,front,95.1,162.4,63.8,53.3,2008,ohc,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,8249,nissan,clipper
-99,100,0,gas,standard,4,hatchback,fwd,front,97.2,173.4,65.2,54.7,2324,ohc,four,120,2bbl,3.33,3.47,8.5,97,5200,27,34,8949,nissan,rogue
-100,101,0,gas,standard,4,sedan,fwd,front,97.2,173.4,65.2,54.7,2302,ohc,four,120,2bbl,3.33,3.47,8.5,97,5200,27,34,9549,nissan,nv200
-101,102,0,gas,standard,4,sedan,fwd,front,100.4,181.7,66.5,55.1,3095,ohcv,six,181,mpfi,3.43,3.27,9.0,152,5200,17,22,13499,nissan,dayz
-102,103,0,gas,standard,4,wagon,fwd,front,100.4,184.6,66.5,56.1,3296,ohcv,six,181,mpfi,3.43,3.27,9.0,152,5200,17,22,14399,nissan,fuga
-103,104,0,gas,standard,4,sedan,fwd,front,100.4,184.6,66.5,55.1,3060,ohcv,six,181,mpfi,3.43,3.27,9.0,152,5200,19,25,13499,nissan,otti
-104,105,3,gas,standard,2,hatchback,rwd,front,91.3,170.7,67.9,49.7,3071,ohcv,six,181,mpfi,3.43,3.27,9.0,160,5200,19,25,17199,nissan,teana
-105,106,3,gas,turbo,2,hatchback,rwd,front,91.3,170.7,67.9,49.7,3139,ohcv,six,181,mpfi,3.43,3.27,7.8,200,5200,17,23,19699,nissan,kicks
-106,107,1,gas,standard,2,hatchback,rwd,front,99.2,178.5,67.9,49.7,3139,ohcv,six,181,mpfi,3.43,3.27,9.0,160,5200,19,25,18399,nissan,clipper
-107,108,0,gas,standard,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3020,l,four,120,mpfi,3.46,3.19,8.4,97,5000,19,24,11900,peugeot,504
-108,109,0,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3197,l,four,152,idi,3.7,3.52,21.0,95,4150,28,33,13200,peugeot,304
-109,110,0,gas,standard,4,wagon,rwd,front,114.2,198.9,68.4,58.7,3230,l,four,120,mpfi,3.46,3.19,8.4,97,5000,19,24,12440,peugeot,504 (sw)
-110,111,0,diesel,turbo,4,wagon,rwd,front,114.2,198.9,68.4,58.7,3430,l,four,152,idi,3.7,3.52,21.0,95,4150,25,25,13860,peugeot,504
-111,112,0,gas,standard,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3075,l,four,120,mpfi,3.46,2.19,8.4,95,5000,19,24,15580,peugeot,504
-112,113,0,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3252,l,four,152,idi,3.7,3.52,21.0,95,4150,28,33,16900,peugeot,604sl
-113,114,0,gas,standard,4,wagon,rwd,front,114.2,198.9,68.4,56.7,3285,l,four,120,mpfi,3.46,2.19,8.4,95,5000,19,24,16695,peugeot,504
-114,115,0,diesel,turbo,4,wagon,rwd,front,114.2,198.9,68.4,58.7,3485,l,four,152,idi,3.7,3.52,21.0,95,4150,25,25,17075,peugeot,505s turbo diesel
-115,116,0,gas,standard,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3075,l,four,120,mpfi,3.46,3.19,8.4,97,5000,19,24,16630,peugeot,504
-116,117,0,diesel,turbo,4,sedan,rwd,front,107.9,186.7,68.4,56.7,3252,l,four,152,idi,3.7,3.52,21.0,95,4150,28,33,17950,peugeot,504
-117,118,0,gas,turbo,4,sedan,rwd,front,108.0,186.7,68.3,56.0,3130,l,four,134,mpfi,3.61,3.21,7.0,142,5600,18,24,18150,peugeot,604sl
-118,119,1,gas,standard,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,1918,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,37,41,5572,plymouth,fury iii
-119,120,1,gas,turbo,2,hatchback,fwd,front,93.7,157.3,63.8,50.8,2128,ohc,four,98,spdi,3.03,3.39,7.6,102,5500,24,30,7957,plymouth,cricket
-120,121,1,gas,standard,4,hatchback,fwd,front,93.7,157.3,63.8,50.6,1967,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,plymouth,fury iii
-121,122,1,gas,standard,4,sedan,fwd,front,93.7,167.3,63.8,50.8,1989,ohc,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,plymouth,satellite custom (sw)
-122,123,1,gas,standard,4,sedan,fwd,front,93.7,167.3,63.8,50.8,2191,ohc,four,98,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,plymouth,fury gran sedan
-123,124,-1,gas,standard,4,wagon,fwd,front,103.3,174.6,64.6,59.8,2535,ohc,four,122,2bbl,3.35,3.46,8.5,88,5000,24,30,8921,plymouth,valiant
-124,125,3,gas,turbo,2,hatchback,rwd,front,95.9,173.2,66.3,50.2,2818,ohc,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,12764,plymouth,duster
-125,126,3,gas,standard,2,hatchback,rwd,front,94.5,168.9,68.3,50.2,2778,ohc,four,151,mpfi,3.94,3.11,9.5,143,5500,19,27,22018,porsche,macan
-126,127,3,gas,standard,2,hardtop,rwd,rear,89.5,168.9,65.0,51.6,2756,ohcf,six,194,mpfi,3.74,2.9,9.5,207,5900,17,25,32528,porsche,panamera
-127,128,3,gas,standard,2,hardtop,rwd,rear,89.5,168.9,65.0,51.6,2756,ohcf,six,194,mpfi,3.74,2.9,9.5,207,5900,17,25,34028,porsche,cayenne
-128,129,3,gas,standard,2,convertible,rwd,rear,89.5,168.9,65.0,51.6,2800,ohcf,six,194,mpfi,3.74,2.9,9.5,207,5900,17,25,37028,porsche,boxter
-129,130,1,gas,standard,2,hatchback,rwd,front,98.4,175.7,72.3,50.5,3366,dohcv,eight,203,mpfi,3.94,3.11,10.0,288,5750,17,28,31400,porsche,cayenne
-130,131,0,gas,standard,4,wagon,fwd,front,96.1,181.5,66.5,55.2,2579,ohc,four,132,mpfi,3.46,3.9,8.7,90,5100,23,31,9295,renault,12tl
-131,132,2,gas,standard,2,hatchback,fwd,front,96.1,176.8,66.6,50.5,2460,ohc,four,132,mpfi,3.46,3.9,8.7,90,5100,23,31,9895,renault,5 gtl
-132,133,3,gas,standard,2,hatchback,fwd,front,99.1,186.6,66.5,56.1,2658,ohc,four,121,mpfi,3.54,3.07,9.31,110,5250,21,28,11850,saab,99e
-133,134,2,gas,standard,4,sedan,fwd,front,99.1,186.6,66.5,56.1,2695,ohc,four,121,mpfi,3.54,3.07,9.3,110,5250,21,28,12170,saab,99le
-134,135,3,gas,standard,2,hatchback,fwd,front,99.1,186.6,66.5,56.1,2707,ohc,four,121,mpfi,2.54,2.07,9.3,110,5250,21,28,15040,saab,99le
-135,136,2,gas,standard,4,sedan,fwd,front,99.1,186.6,66.5,56.1,2758,ohc,four,121,mpfi,3.54,3.07,9.3,110,5250,21,28,15510,saab,99gle
-136,137,3,gas,turbo,2,hatchback,fwd,front,99.1,186.6,66.5,56.1,2808,dohc,four,121,mpfi,3.54,3.07,9.0,160,5500,19,26,18150,saab,99gle
-137,138,2,gas,turbo,4,sedan,fwd,front,99.1,186.6,66.5,56.1,2847,dohc,four,121,mpfi,3.54,3.07,9.0,160,5500,19,26,18620,saab,99e
-138,139,2,gas,standard,2,hatchback,fwd,front,93.7,156.9,63.4,53.7,2050,ohcf,four,97,2bbl,3.62,2.36,9.0,69,4900,31,36,5118,subaru,
-139,140,2,gas,standard,2,hatchback,fwd,front,93.7,157.9,63.6,53.7,2120,ohcf,four,108,2bbl,3.62,2.64,8.7,73,4400,26,31,7053,subaru,dl
-140,141,2,gas,standard,2,hatchback,4wd,front,93.3,157.3,63.8,55.7,2240,ohcf,four,108,2bbl,3.62,2.64,8.7,73,4400,26,31,7603,subaru,dl
-141,142,0,gas,standard,4,sedan,fwd,front,97.2,172.0,65.4,52.5,2145,ohcf,four,108,2bbl,3.62,2.64,9.5,82,4800,32,37,7126,subaru,
-142,143,0,gas,standard,4,sedan,fwd,front,97.2,172.0,65.4,52.5,2190,ohcf,four,108,2bbl,3.62,2.64,9.5,82,4400,28,33,7775,subaru,brz
-143,144,0,gas,standard,4,sedan,fwd,front,97.2,172.0,65.4,52.5,2340,ohcf,four,108,mpfi,3.62,2.64,9.0,94,5200,26,32,9960,subaru,baja
-144,145,0,gas,standard,4,sedan,4wd,front,97.0,172.0,65.4,54.3,2385,ohcf,four,108,2bbl,3.62,2.64,9.0,82,4800,24,25,9233,subaru,r1
-145,146,0,gas,turbo,4,sedan,4wd,front,97.0,172.0,65.4,54.3,2510,ohcf,four,108,mpfi,3.62,2.64,7.7,111,4800,24,29,11259,subaru,r2
-146,147,0,gas,standard,4,wagon,fwd,front,97.0,173.5,65.4,53.0,2290,ohcf,four,108,2bbl,3.62,2.64,9.0,82,4800,28,32,7463,subaru,trezia
-147,148,0,gas,standard,4,wagon,fwd,front,97.0,173.5,65.4,53.0,2455,ohcf,four,108,mpfi,3.62,2.64,9.0,94,5200,25,31,10198,subaru,tribeca
-148,149,0,gas,standard,4,wagon,4wd,front,96.9,173.6,65.4,54.9,2420,ohcf,four,108,2bbl,3.62,2.64,9.0,82,4800,23,29,8013,subaru,dl
-149,150,0,gas,turbo,4,wagon,4wd,front,96.9,173.6,65.4,54.9,2650,ohcf,four,108,mpfi,3.62,2.64,7.7,111,4800,23,23,11694,subaru,dl
-150,151,1,gas,standard,2,hatchback,fwd,front,95.7,158.7,63.6,54.5,1985,ohc,four,92,2bbl,3.05,3.03,9.0,62,4800,35,39,5348,toyota,corona mark ii
-151,152,1,gas,standard,2,hatchback,fwd,front,95.7,158.7,63.6,54.5,2040,ohc,four,92,2bbl,3.05,3.03,9.0,62,4800,31,38,6338,toyota,corona
-152,153,1,gas,standard,4,hatchback,fwd,front,95.7,158.7,63.6,54.5,2015,ohc,four,92,2bbl,3.05,3.03,9.0,62,4800,31,38,6488,toyota,corolla 1200
-153,154,0,gas,standard,4,wagon,fwd,front,95.7,169.7,63.6,59.1,2280,ohc,four,92,2bbl,3.05,3.03,9.0,62,4800,31,37,6918,toyota,corona hardtop
-154,155,0,gas,standard,4,wagon,4wd,front,95.7,169.7,63.6,59.1,2290,ohc,four,92,2bbl,3.05,3.03,9.0,62,4800,27,32,7898,toyota,corolla 1600 (sw)
-155,156,0,gas,standard,4,wagon,4wd,front,95.7,169.7,63.6,59.1,3110,ohc,four,92,2bbl,3.05,3.03,9.0,62,4800,27,32,8778,toyota,carina
-156,157,0,gas,standard,4,sedan,fwd,front,95.7,166.3,64.4,53.0,2081,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,30,37,6938,toyota,mark ii
-157,158,0,gas,standard,4,hatchback,fwd,front,95.7,166.3,64.4,52.8,2109,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,30,37,7198,toyota,corolla 1200
-158,159,0,diesel,standard,4,sedan,fwd,front,95.7,166.3,64.4,53.0,2275,ohc,four,110,idi,3.27,3.35,22.5,56,4500,34,36,7898,toyota,corona
-159,160,0,diesel,standard,4,hatchback,fwd,front,95.7,166.3,64.4,52.8,2275,ohc,four,110,idi,3.27,3.35,22.5,56,4500,38,47,7788,toyota,corolla
-160,161,0,gas,standard,4,sedan,fwd,front,95.7,166.3,64.4,53.0,2094,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,38,47,7738,toyota,corona
-161,162,0,gas,standard,4,hatchback,fwd,front,95.7,166.3,64.4,52.8,2122,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,28,34,8358,toyota,corolla
-162,163,0,gas,standard,4,sedan,fwd,front,95.7,166.3,64.4,52.8,2140,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,28,34,9258,toyota,mark ii
-163,164,1,gas,standard,2,sedan,rwd,front,94.5,168.7,64.0,52.6,2169,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,29,34,8058,toyota,corolla liftback
-164,165,1,gas,standard,2,hatchback,rwd,front,94.5,168.7,64.0,52.6,2204,ohc,four,98,2bbl,3.19,3.03,9.0,70,4800,29,34,8238,toyota,corona
-165,166,1,gas,standard,2,sedan,rwd,front,94.5,168.7,64.0,52.6,2265,dohc,four,98,mpfi,3.24,3.08,9.4,112,6600,26,29,9298,toyota,celica gt liftback
-166,167,1,gas,standard,2,hatchback,rwd,front,94.5,168.7,64.0,52.6,2300,dohc,four,98,mpfi,3.24,3.08,9.4,112,6600,26,29,9538,toyota,corolla tercel
-167,168,2,gas,standard,2,hardtop,rwd,front,98.4,176.2,65.6,52.0,2540,ohc,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,8449,toyota,corona liftback
-168,169,2,gas,standard,2,hardtop,rwd,front,98.4,176.2,65.6,52.0,2536,ohc,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,9639,toyota,corolla
-169,170,2,gas,standard,2,hatchback,rwd,front,98.4,176.2,65.6,52.0,2551,ohc,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,9989,toyota,starlet
-170,171,2,gas,standard,2,hardtop,rwd,front,98.4,176.2,65.6,52.0,2679,ohc,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,11199,toyota,tercel
-171,172,2,gas,standard,2,hatchback,rwd,front,98.4,176.2,65.6,52.0,2714,ohc,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,11549,toyota,corolla
-172,173,2,gas,standard,2,convertible,rwd,front,98.4,176.2,65.6,53.0,2975,ohc,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,17669,toyota,cressida
-173,174,-1,gas,standard,4,sedan,fwd,front,102.4,175.6,66.5,54.9,2326,ohc,four,122,mpfi,3.31,3.54,8.7,92,4200,29,34,8948,toyota,corolla
-174,175,-1,diesel,turbo,4,sedan,fwd,front,102.4,175.6,66.5,54.9,2480,ohc,four,110,idi,3.27,3.35,22.5,73,4500,30,33,10698,toyota,celica gt
-175,176,-1,gas,standard,4,hatchback,fwd,front,102.4,175.6,66.5,53.9,2414,ohc,four,122,mpfi,3.31,3.54,8.7,92,4200,27,32,9988,toyota,corona
-176,177,-1,gas,standard,4,sedan,fwd,front,102.4,175.6,66.5,54.9,2414,ohc,four,122,mpfi,3.31,3.54,8.7,92,4200,27,32,10898,toyota,corolla
-177,178,-1,gas,standard,4,hatchback,fwd,front,102.4,175.6,66.5,53.9,2458,ohc,four,122,mpfi,3.31,3.54,8.7,92,4200,27,32,11248,toyota,mark ii
-178,179,3,gas,standard,2,hatchback,rwd,front,102.9,183.5,67.7,52.0,2976,dohc,six,171,mpfi,3.27,3.35,9.3,161,5200,20,24,16558,toyota,corolla liftback
-179,180,3,gas,standard,2,hatchback,rwd,front,102.9,183.5,67.7,52.0,3016,dohc,six,171,mpfi,3.27,3.35,9.3,161,5200,19,24,15998,toyota,corona
-180,181,-1,gas,standard,4,sedan,rwd,front,104.5,187.8,66.5,54.1,3131,dohc,six,171,mpfi,3.27,3.35,9.2,156,5200,20,24,15690,toyota,starlet
-181,182,-1,gas,standard,4,wagon,rwd,front,104.5,187.8,66.5,54.1,3151,dohc,six,161,mpfi,3.27,3.35,9.2,156,5200,19,24,15750,toyota,tercel
-182,183,2,diesel,standard,2,sedan,fwd,front,97.3,171.7,65.5,55.7,2261,ohc,four,97,idi,3.01,3.4,23.0,52,4800,37,46,7775,volkswagen,rabbit
-183,184,2,gas,standard,2,sedan,fwd,front,97.3,171.7,65.5,55.7,2209,ohc,four,109,mpfi,3.19,3.4,9.0,85,5250,27,34,7975,volkswagen,1131 deluxe sedan
-184,185,2,diesel,standard,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2264,ohc,four,97,idi,3.01,3.4,23.0,52,4800,37,46,7995,volkswagen,model 111
-185,186,2,gas,standard,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2212,ohc,four,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8195,volkswagen,type 3
-186,187,2,gas,standard,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2275,ohc,four,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8495,volkswagen,411 (sw)
-187,188,2,diesel,turbo,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2319,ohc,four,97,idi,3.01,3.4,23.0,68,4500,37,42,9495,volkswagen,super beetle
-188,189,2,gas,standard,4,sedan,fwd,front,97.3,171.7,65.5,55.7,2300,ohc,four,109,mpfi,3.19,3.4,10.0,100,5500,26,32,9995,volkswagen,dasher
-189,190,3,gas,standard,2,convertible,fwd,front,94.5,159.3,64.2,55.6,2254,ohc,four,109,mpfi,3.19,3.4,8.5,90,5500,24,29,11595,volkswagen,dasher
-190,191,3,gas,standard,2,hatchback,fwd,front,94.5,165.7,64.0,51.4,2221,ohc,four,109,mpfi,3.19,3.4,8.5,90,5500,24,29,9980,volkswagen,rabbit
-191,192,0,gas,standard,4,sedan,fwd,front,100.4,180.2,66.9,55.1,2661,ohc,five,136,mpfi,3.19,3.4,8.5,110,5500,19,24,13295,volkswagen,rabbit
-192,193,0,diesel,turbo,4,sedan,fwd,front,100.4,180.2,66.9,55.1,2579,ohc,four,97,idi,3.01,3.4,23.0,68,4500,33,38,13845,volkswagen,rabbit custom
-193,194,0,gas,standard,4,wagon,fwd,front,100.4,183.1,66.9,55.1,2563,ohc,four,109,mpfi,3.19,3.4,9.0,88,5500,25,31,12290,volkswagen,dasher
-194,195,-2,gas,standard,4,sedan,rwd,front,104.3,188.8,67.2,56.2,2912,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,12940,volvo,145e (sw)
-195,196,-1,gas,standard,4,wagon,rwd,front,104.3,188.8,67.2,57.5,3034,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,13415,volvo,144ea
-196,197,-2,gas,standard,4,sedan,rwd,front,104.3,188.8,67.2,56.2,2935,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,24,28,15985,volvo,244dl
-197,198,-1,gas,standard,4,wagon,rwd,front,104.3,188.8,67.2,57.5,3042,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,24,28,16515,volvo,245
-198,199,-2,gas,turbo,4,sedan,rwd,front,104.3,188.8,67.2,56.2,3045,ohc,four,130,mpfi,3.62,3.15,7.5,162,5100,17,22,18420,volvo,264gl
-199,200,-1,gas,turbo,4,wagon,rwd,front,104.3,188.8,67.2,57.5,3157,ohc,four,130,mpfi,3.62,3.15,7.5,162,5100,17,22,18950,volvo,diesel
-200,201,-1,gas,standard,4,sedan,rwd,front,109.1,188.8,68.9,55.5,2952,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,16845,volvo,145e (sw)
-201,202,-1,gas,turbo,4,sedan,rwd,front,109.1,188.8,68.8,55.5,3049,ohc,four,141,mpfi,3.78,3.15,8.7,160,5300,19,25,19045,volvo,144ea
-202,203,-1,gas,standard,4,sedan,rwd,front,109.1,188.8,68.9,55.5,3012,ohcv,six,173,mpfi,3.58,2.87,8.8,134,5500,18,23,21485,volvo,244dl
-203,204,-1,diesel,turbo,4,sedan,rwd,front,109.1,188.8,68.9,55.5,3217,ohc,six,145,idi,3.01,3.4,23.0,106,4800,26,27,22470,volvo,246
-204,205,-1,gas,turbo,4,sedan,rwd,front,109.1,188.8,68.9,55.5,3062,ohc,four,141,mpfi,3.78,3.15,9.5,114,5400,19,25,22625,volvo,264gl
+0,1,3,gas,standard,2,decapotable,arriere,devant,2.25,4.29,1.63,1.24,1.27,double ACT,four,130,mpfi,3.47,2.68,9.0,111,5000,21,27,13495,alfa-romeo,giulia
+1,2,3,gas,standard,2,decapotable,arriere,devant,2.25,4.29,1.63,1.24,1.27,double ACT,four,130,mpfi,3.47,2.68,9.0,111,5000,21,27,16500,alfa-romeo,stelvio
+2,3,1,gas,standard,2,hayon,arriere,devant,2.4,4.35,1.66,1.33,1.41,soupapes en tête à manchon,six,152,mpfi,2.68,3.47,9.0,154,5000,19,26,16500,alfa-romeo,Quadrifoglio
+3,4,2,gas,standard,4,berline,avant,devant,2.53,4.49,1.68,1.38,1.17,ACT,four,109,mpfi,3.19,3.4,10.0,102,5500,24,30,13950,audi,100 ls
+4,5,2,gas,standard,4,berline,4motrice,devant,2.52,4.49,1.69,1.38,1.41,ACT,five,136,mpfi,3.19,3.4,8.0,115,5500,18,22,17450,audi,100ls
+5,6,2,gas,standard,2,berline,avant,devant,2.53,4.5,1.68,1.35,1.25,ACT,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,15250,audi,fox
+6,7,1,gas,standard,4,berline,avant,devant,2.69,4.89,1.81,1.41,1.42,ACT,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,17710,audi,100ls
+7,8,1,gas,standard,4,break,avant,devant,2.69,4.89,1.81,1.41,1.48,ACT,five,136,mpfi,3.19,3.4,8.5,110,5500,19,25,18920,audi,5000
+8,9,1,gas,turbo,4,berline,avant,devant,2.69,4.89,1.81,1.42,1.54,ACT,five,131,mpfi,3.13,3.4,8.3,140,5500,17,20,23875,audi,4000
+9,10,0,gas,turbo,2,hayon,4motrice,devant,2.53,4.53,1.72,1.32,1.53,ACT,five,131,mpfi,3.13,3.4,7.0,160,5500,16,22,17859,audi,5000s (diesel)
+10,11,2,gas,standard,2,berline,arriere,devant,2.57,4.49,1.65,1.38,1.2,ACT,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16430,bmw,320i
+11,12,0,gas,standard,4,berline,arriere,devant,2.57,4.49,1.65,1.38,1.2,ACT,four,108,mpfi,3.5,2.8,8.8,101,5800,23,29,16925,bmw,320i
+12,13,0,gas,standard,2,berline,arriere,devant,2.57,4.49,1.65,1.38,1.36,ACT,six,164,mpfi,3.31,3.19,9.0,121,4250,21,28,20970,bmw,x1
+13,14,0,gas,standard,4,berline,arriere,devant,2.57,4.49,1.65,1.38,1.38,ACT,six,164,mpfi,3.31,3.19,9.0,121,4250,21,28,21105,bmw,x3
+14,15,1,gas,standard,4,berline,arriere,devant,2.63,4.8,1.7,1.41,1.53,ACT,six,164,mpfi,3.31,3.19,9.0,121,4250,20,25,24565,bmw,z4
+15,16,0,gas,standard,4,berline,arriere,devant,2.63,4.8,1.7,1.41,1.62,ACT,six,209,mpfi,3.62,3.39,8.0,182,5400,16,22,30760,bmw,x4
+16,17,0,gas,standard,2,berline,arriere,devant,2.63,4.92,1.72,1.36,1.69,ACT,six,209,mpfi,3.62,3.39,8.0,182,5400,16,22,41315,bmw,x5
+17,18,0,gas,standard,4,berline,arriere,devant,2.79,5.0,1.8,1.43,1.75,ACT,six,209,mpfi,3.62,3.39,8.0,182,5400,15,20,36880,bmw,x3
+18,19,2,gas,standard,2,hayon,avant,devant,2.25,3.58,1.53,1.35,0.74,ligne des cylindres,three,61,2bbl,2.91,3.03,9.5,48,5100,47,53,5151,chevrolet,impala
+19,20,1,gas,standard,2,hayon,avant,devant,2.4,3.96,1.62,1.32,0.94,ACT,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6295,chevrolet,monte carlo
+20,21,0,gas,standard,4,berline,avant,devant,2.4,4.03,1.62,1.32,0.95,ACT,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,6575,chevrolet,vega 2300
+21,22,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.94,ACT,four,90,2bbl,2.97,3.23,9.41,68,5500,37,41,5572,dodge,rampage
+22,23,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.94,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6377,dodge,challenger se
+23,24,1,gas,turbo,2,hayon,avant,devant,2.38,4.0,1.62,1.29,1.06,ACT,four,98,mpfi,3.03,3.39,7.6,102,5500,24,30,7957,dodge,d200
+24,25,1,gas,standard,4,hayon,avant,devant,2.38,4.0,1.62,1.29,0.98,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,dodge,monaco (sw)
+25,26,1,gas,standard,4,berline,avant,devant,2.38,4.0,1.62,1.29,0.99,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,dodge,colt hardtop
+26,27,1,gas,standard,4,berline,avant,devant,2.38,4.0,1.62,1.29,0.99,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,dodge,colt (sw)
+27,28,1,gas,turbo,2,berline,avant,devant,2.38,4.0,1.62,1.29,1.1,ACT,four,98,mpfi,3.03,3.39,7.6,102,5500,24,30,8558,dodge,coronet custom
+28,29,-1,gas,standard,4,break,avant,devant,2.62,4.43,1.64,1.52,1.27,ACT,four,122,2bbl,3.34,3.46,8.5,88,5000,24,30,8921,dodge,dart custom
+29,30,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.41,ACT,four,156,mfi,3.6,3.9,7.0,145,5000,19,24,12964,dodge,coronet custom (sw)
+30,31,2,gas,standard,2,hayon,avant,devant,2.2,3.67,1.62,1.29,0.86,ACT,four,92,1bbl,2.91,3.41,9.6,58,4800,49,54,6479,honda,civic
+31,32,2,gas,standard,2,hayon,avant,devant,2.2,3.67,1.62,1.29,0.91,ACT,four,92,1bbl,2.91,3.41,9.2,76,6000,31,38,6855,honda,civic cvcc
+32,33,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.92,ACT,four,79,1bbl,2.91,3.07,10.1,60,5500,38,42,5399,honda,civic
+33,34,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.97,ACT,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,6529,honda,accord cvcc
+34,35,1,gas,standard,2,hayon,avant,devant,2.38,3.81,1.63,1.34,0.98,ACT,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7129,honda,civic cvcc
+35,36,0,gas,standard,4,berline,avant,devant,2.45,4.15,1.63,1.38,1.0,ACT,four,92,1bbl,2.91,3.41,9.2,76,6000,30,34,7295,honda,accord lx
+36,37,0,gas,standard,4,break,avant,devant,2.45,3.99,1.62,1.48,1.01,ACT,four,92,1bbl,2.92,3.41,9.2,76,6000,30,34,7295,honda,civic 1500 gl
+37,38,0,gas,standard,2,hayon,avant,devant,2.45,4.25,1.66,1.35,1.12,ACT,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,7895,honda,accord
+38,39,0,gas,standard,2,hayon,avant,devant,2.45,4.25,1.66,1.35,1.14,ACT,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,9095,honda,civic 1300
+39,40,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.66,1.37,1.15,ACT,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,8845,honda,prelude
+40,41,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.59,1.37,1.19,ACT,four,110,1bbl,3.15,3.58,9.0,86,5800,27,33,10295,honda,accord
+41,42,0,gas,standard,4,berline,avant,devant,2.45,4.46,1.66,1.37,1.23,ACT,four,110,mpfi,3.15,3.58,9.0,101,5800,24,28,12945,honda,civic
+42,43,1,gas,standard,2,berline,avant,devant,2.45,4.3,1.68,1.3,1.15,ACT,four,110,2bbl,3.15,3.58,9.1,100,5500,25,31,10345,honda,civic (auto)
+43,44,0,gas,standard,4,berline,arriere,devant,2.4,4.34,1.57,1.36,1.17,ACT,four,111,2bbl,3.31,3.23,8.5,78,4800,24,29,6785,isuzu,MU-X
+44,45,1,gas,standard,2,berline,avant,devant,2.4,3.96,1.62,1.32,0.94,ACT,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,8916,isuzu,D-Max 
+45,46,0,gas,standard,4,berline,avant,devant,2.4,3.96,1.62,1.32,0.95,ACT,four,90,2bbl,3.03,3.11,9.6,70,5400,38,43,8916,isuzu,D-Max V-Cross
+46,47,2,gas,standard,2,hayon,arriere,devant,2.44,4.38,1.66,1.31,1.37,ACT,four,119,spfi,3.43,3.23,9.2,90,5000,24,29,11048,isuzu,D-Max 
+47,48,0,gas,standard,4,berline,arriere,devant,2.87,5.07,1.77,1.34,2.03,double ACT,six,258,mpfi,3.63,4.17,8.1,176,4750,15,19,32250,jaguar,xj
+48,49,0,gas,standard,4,berline,arriere,devant,2.87,5.07,1.77,1.34,2.03,double ACT,six,258,mpfi,3.63,4.17,8.1,176,4750,15,19,35550,jaguar,xf
+49,50,0,gas,standard,2,berline,arriere,devant,2.59,4.87,1.79,1.21,1.98,soupapes en tête à manchon,twelve,326,mpfi,3.54,2.76,11.5,262,5000,13,17,36000,jaguar,xk
+50,51,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.94,ACT,four,91,2bbl,3.03,3.15,9.0,68,5000,30,31,5195,mazda,rx3
+51,52,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.95,ACT,four,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6095,mazda,glc deluxe
+52,53,1,gas,standard,2,hayon,avant,devant,2.36,4.04,1.63,1.37,0.95,ACT,four,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6795,mazda,rx2 coupe
+53,54,1,gas,standard,4,berline,avant,devant,2.36,4.24,1.63,1.37,0.97,ACT,four,91,2bbl,3.03,3.15,9.0,68,5000,31,38,6695,mazda,rx-4
+54,55,1,gas,standard,4,berline,avant,devant,2.36,4.24,1.63,1.37,0.98,ACT,four,91,2bbl,3.08,3.15,9.0,68,5000,31,38,7395,mazda,glc deluxe
+55,56,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,two,70,4bbl,3.33,3.255,9.4,101,6000,17,23,10945,mazda,626
+56,57,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,two,70,4bbl,3.33,3.255,9.4,101,6000,17,23,11845,mazda,glc
+57,58,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.19,moteur rotatif,two,70,4bbl,3.33,3.255,9.4,101,6000,17,23,13645,mazda,rx-7 gs
+58,59,3,gas,standard,2,hayon,arriere,devant,2.42,4.29,1.67,1.26,1.25,moteur rotatif,two,80,mpfi,3.33,3.255,9.4,135,6000,16,23,15645,mazda,glc 4
+59,60,1,gas,standard,2,hayon,avant,devant,2.51,4.52,1.69,1.36,1.19,ACT,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,8845,mazda,626
+60,61,0,gas,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.2,ACT,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,8495,mazda,glc custom l
+61,62,1,gas,standard,2,hayon,avant,devant,2.51,4.52,1.69,1.36,1.19,ACT,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,10595,mazda,glc custom
+62,63,0,gas,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.2,ACT,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,10245,mazda,rx-4
+63,64,0,diesel,standard,4,berline,avant,devant,2.51,4.52,1.69,1.41,1.22,ACT,four,122,idi,3.39,3.39,22.7,64,4650,36,42,10795,mazda,glc deluxe
+64,65,0,gas,standard,4,hayon,avant,devant,2.51,4.52,1.69,1.41,1.21,ACT,four,122,2bbl,3.39,3.39,8.6,84,4800,26,32,11245,mazda,626
+65,66,0,gas,standard,4,berline,arriere,devant,2.66,4.45,1.68,1.38,1.34,ACT,four,140,mpfi,3.76,3.16,8.0,120,5000,19,27,18280,mazda,glc
+66,67,0,diesel,standard,4,berline,arriere,devant,2.66,4.45,1.68,1.38,1.35,ACT,four,134,idi,3.43,3.64,22.0,72,4200,31,39,18344,mazda,rx-7 gs
+67,68,-1,diesel,turbo,4,berline,arriere,devant,2.79,4.85,1.79,1.44,1.76,ACT,five,183,idi,3.58,3.64,21.5,123,4350,22,25,25552,buick,electra 225 custom
+68,69,-1,diesel,turbo,4,break,arriere,devant,2.79,4.85,1.79,1.49,1.88,ACT,five,183,idi,3.58,3.64,21.5,123,4350,22,25,28248,buick,century luxus (sw)
+69,70,0,diesel,turbo,2,coupe,arriere,devant,2.71,4.76,1.79,1.39,1.75,ACT,five,183,idi,3.58,3.64,21.5,123,4350,22,25,28176,buick,century
+70,71,-1,diesel,turbo,4,berline,arriere,devant,2.94,5.15,1.82,1.43,1.88,ACT,five,183,idi,3.58,3.64,21.5,123,4350,22,25,31600,buick,skyhawk
+71,72,-1,gas,standard,4,berline,arriere,devant,2.94,5.15,1.82,1.44,1.87,soupapes en tête à manchon,eight,234,mpfi,3.46,3.1,8.3,155,4750,16,18,34184,buick,opel isuzu deluxe
+72,73,3,gas,standard,2,decapotable,arriere,devant,2.45,4.58,1.79,1.29,1.84,soupapes en tête à manchon,eight,234,mpfi,3.46,3.1,8.3,155,4750,16,18,35056,buick,skylark
+73,74,0,gas,standard,4,berline,arriere,devant,3.07,5.29,1.82,1.44,1.95,soupapes en tête à manchon,eight,308,mpfi,3.8,3.35,8.0,184,4500,14,16,40960,buick,century special
+74,75,1,gas,standard,2,coupe,arriere,devant,2.84,5.06,1.83,1.41,1.86,soupapes en tête à manchon,eight,304,mpfi,3.8,3.35,8.0,184,4500,14,16,45400,buick,regal sport coupe (turbo)
+75,76,1,gas,turbo,2,hayon,arriere,devant,2.61,4.53,1.73,1.39,1.46,ACT,four,140,mpfi,3.78,3.12,8.0,175,5000,19,24,16503,mercury,cougar
+76,77,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,0.96,ACT,four,92,2bbl,2.97,3.23,9.4,68,5500,37,41,5389,mitsubishi,mirage
+77,78,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,0.97,ACT,four,92,2bbl,2.97,3.23,9.4,68,5500,31,38,6189,mitsubishi,lancer
+78,79,2,gas,standard,2,hayon,avant,devant,2.38,4.0,1.64,1.29,1.0,ACT,four,92,2bbl,2.97,3.23,9.4,68,5500,31,38,6669,mitsubishi,outlander
+79,80,1,gas,turbo,2,hayon,avant,devant,2.36,4.0,1.62,1.29,1.07,ACT,four,98,spdi,3.03,3.39,7.6,102,5500,24,30,7689,mitsubishi,g4
+80,81,3,gas,turbo,2,hayon,avant,devant,2.45,4.39,1.66,1.25,1.18,ACT,four,110,spdi,3.17,3.46,7.5,116,5500,23,30,9959,mitsubishi,mirage g4
+81,82,3,gas,standard,2,hayon,avant,devant,2.45,4.39,1.66,1.25,1.16,ACT,four,122,2bbl,3.35,3.46,8.5,88,5000,25,32,8499,mitsubishi,g4
+82,83,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.42,ACT,four,156,spdi,3.58,3.86,7.0,145,5000,19,24,12629,mitsubishi,outlander
+83,84,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.46,ACT,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,14869,mitsubishi,g4
+84,85,3,gas,turbo,2,hayon,avant,devant,2.44,4.4,1.68,1.28,1.46,ACT,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,14489,mitsubishi,mirage g4
+85,86,1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.18,ACT,four,122,2bbl,3.35,3.46,8.5,88,5000,25,32,6989,mitsubishi,montero
+86,87,1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,four,122,2bbl,3.35,3.46,8.5,88,5000,25,32,8189,mitsubishi,pajero
+87,88,1,gas,turbo,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,four,110,spdi,3.17,3.46,7.5,116,5500,23,30,9279,mitsubishi,outlander
+88,89,-1,gas,standard,4,berline,avant,devant,2.45,4.38,1.66,1.31,1.2,ACT,four,110,spdi,3.17,3.46,7.5,116,5500,23,30,9279,mitsubishi,mirage g4
+89,90,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.94,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,5499,nissan,versa
+90,91,1,diesel,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,1.01,ACT,four,103,idi,2.99,3.47,21.9,55,4800,45,50,7099,nissan,gt-r
+91,92,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.96,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,6649,nissan,rogue
+92,93,1,gas,standard,4,berline,avant,devant,2.4,4.2,1.62,1.38,0.97,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,6849,nissan,latio
+93,94,1,gas,standard,4,break,avant,devant,2.4,4.32,1.62,1.36,1.01,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7349,nissan,titan
+94,95,1,gas,standard,2,berline,avant,devant,2.4,4.2,1.62,1.38,0.98,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7299,nissan,leaf
+95,96,1,gas,standard,2,hayon,avant,devant,2.4,4.21,1.62,1.35,1.01,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7799,nissan,juke
+96,97,1,gas,standard,4,berline,avant,devant,2.4,4.2,1.62,1.38,0.99,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7499,nissan,latio
+97,98,1,gas,standard,4,break,avant,devant,2.4,4.32,1.62,1.36,1.02,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,7999,nissan,note
+98,99,2,gas,standard,2,coupe,avant,devant,2.42,4.12,1.62,1.35,1.0,ACT,four,97,2bbl,3.15,3.29,9.4,69,5200,31,37,8249,nissan,clipper
+99,100,0,gas,standard,4,hayon,avant,devant,2.47,4.4,1.66,1.39,1.16,ACT,four,120,2bbl,3.33,3.47,8.5,97,5200,27,34,8949,nissan,rogue
+100,101,0,gas,standard,4,berline,avant,devant,2.47,4.4,1.66,1.39,1.15,ACT,four,120,2bbl,3.33,3.47,8.5,97,5200,27,34,9549,nissan,nv200
+101,102,0,gas,standard,4,berline,avant,devant,2.55,4.62,1.69,1.4,1.55,soupapes en tête à manchon,six,181,mpfi,3.43,3.27,9.0,152,5200,17,22,13499,nissan,dayz
+102,103,0,gas,standard,4,break,avant,devant,2.55,4.69,1.69,1.42,1.65,soupapes en tête à manchon,six,181,mpfi,3.43,3.27,9.0,152,5200,17,22,14399,nissan,fuga
+103,104,0,gas,standard,4,berline,avant,devant,2.55,4.69,1.69,1.4,1.53,soupapes en tête à manchon,six,181,mpfi,3.43,3.27,9.0,152,5200,19,25,13499,nissan,otti
+104,105,3,gas,standard,2,hayon,arriere,devant,2.32,4.34,1.72,1.26,1.54,soupapes en tête à manchon,six,181,mpfi,3.43,3.27,9.0,160,5200,19,25,17199,nissan,teana
+105,106,3,gas,turbo,2,hayon,arriere,devant,2.32,4.34,1.72,1.26,1.57,soupapes en tête à manchon,six,181,mpfi,3.43,3.27,7.8,200,5200,17,23,19699,nissan,kicks
+106,107,1,gas,standard,2,hayon,arriere,devant,2.52,4.53,1.72,1.26,1.57,soupapes en tête à manchon,six,181,mpfi,3.43,3.27,9.0,160,5200,19,25,18399,nissan,clipper
+107,108,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.51,ligne des cylindres,four,120,mpfi,3.46,3.19,8.4,97,5000,19,24,11900,peugeot,504
+108,109,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.6,ligne des cylindres,four,152,idi,3.7,3.52,21.0,95,4150,28,33,13200,peugeot,304
+109,110,0,gas,standard,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.62,ligne des cylindres,four,120,mpfi,3.46,3.19,8.4,97,5000,19,24,12440,peugeot,504 (sw)
+110,111,0,diesel,turbo,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.72,ligne des cylindres,four,152,idi,3.7,3.52,21.0,95,4150,25,25,13860,peugeot,504
+111,112,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.54,ligne des cylindres,four,120,mpfi,3.46,2.19,8.4,95,5000,19,24,15580,peugeot,504
+112,113,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.63,ligne des cylindres,four,152,idi,3.7,3.52,21.0,95,4150,28,33,16900,peugeot,604sl
+113,114,0,gas,standard,4,break,arriere,devant,2.9,5.05,1.74,1.44,1.64,ligne des cylindres,four,120,mpfi,3.46,2.19,8.4,95,5000,19,24,16695,peugeot,504
+114,115,0,diesel,turbo,4,break,arriere,devant,2.9,5.05,1.74,1.49,1.74,ligne des cylindres,four,152,idi,3.7,3.52,21.0,95,4150,25,25,17075,peugeot,505s turbo diesel
+115,116,0,gas,standard,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.54,ligne des cylindres,four,120,mpfi,3.46,3.19,8.4,97,5000,19,24,16630,peugeot,504
+116,117,0,diesel,turbo,4,berline,arriere,devant,2.74,4.74,1.74,1.44,1.63,ligne des cylindres,four,152,idi,3.7,3.52,21.0,95,4150,28,33,17950,peugeot,504
+117,118,0,gas,turbo,4,berline,arriere,devant,2.74,4.74,1.73,1.42,1.56,ligne des cylindres,four,134,mpfi,3.61,3.21,7.0,142,5600,18,24,18150,peugeot,604sl
+118,119,1,gas,standard,2,hayon,avant,devant,2.38,4.0,1.62,1.29,0.96,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,37,41,5572,plymouth,fury iii
+119,120,1,gas,turbo,2,hayon,avant,devant,2.38,4.0,1.62,1.29,1.06,ACT,four,98,spdi,3.03,3.39,7.6,102,5500,24,30,7957,plymouth,cricket
+120,121,1,gas,standard,4,hayon,avant,devant,2.38,4.0,1.62,1.29,0.98,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6229,plymouth,fury iii
+121,122,1,gas,standard,4,berline,avant,devant,2.38,4.25,1.62,1.29,0.99,ACT,four,90,2bbl,2.97,3.23,9.4,68,5500,31,38,6692,plymouth,satellite custom (sw)
+122,123,1,gas,standard,4,berline,avant,devant,2.38,4.25,1.62,1.29,1.1,ACT,four,98,2bbl,2.97,3.23,9.4,68,5500,31,38,7609,plymouth,fury gran sedan
+123,124,-1,gas,standard,4,break,avant,devant,2.62,4.43,1.64,1.52,1.27,ACT,four,122,2bbl,3.35,3.46,8.5,88,5000,24,30,8921,plymouth,valiant
+124,125,3,gas,turbo,2,hayon,arriere,devant,2.44,4.4,1.68,1.28,1.41,ACT,four,156,spdi,3.59,3.86,7.0,145,5000,19,24,12764,plymouth,duster
+125,126,3,gas,standard,2,hayon,arriere,devant,2.4,4.29,1.73,1.28,1.39,ACT,four,151,mpfi,3.94,3.11,9.5,143,5500,19,27,22018,porsche,macan
+126,127,3,gas,standard,2,coupe,arriere,derrier,2.27,4.29,1.65,1.31,1.38,soupapes en tête à flux croisés,six,194,mpfi,3.74,2.9,9.5,207,5900,17,25,32528,porsche,panamera
+127,128,3,gas,standard,2,coupe,arriere,derrier,2.27,4.29,1.65,1.31,1.38,soupapes en tête à flux croisés,six,194,mpfi,3.74,2.9,9.5,207,5900,17,25,34028,porsche,cayenne
+128,129,3,gas,standard,2,decapotable,arriere,derrier,2.27,4.29,1.65,1.31,1.4,soupapes en tête à flux croisés,six,194,mpfi,3.74,2.9,9.5,207,5900,17,25,37028,porsche,boxter
+129,130,1,gas,standard,2,hayon,arriere,devant,2.5,4.46,1.84,1.28,1.68,double ACT à soupapes en V,eight,203,mpfi,3.94,3.11,10.0,288,5750,17,28,31400,porsche,cayenne
+130,131,0,gas,standard,4,break,avant,devant,2.44,4.61,1.69,1.4,1.29,ACT,four,132,mpfi,3.46,3.9,8.7,90,5100,23,31,9295,renault,12tl
+131,132,2,gas,standard,2,hayon,avant,devant,2.44,4.49,1.69,1.28,1.23,ACT,four,132,mpfi,3.46,3.9,8.7,90,5100,23,31,9895,renault,5 gtl
+132,133,3,gas,standard,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.33,ACT,four,121,mpfi,3.54,3.07,9.31,110,5250,21,28,11850,saab,99e
+133,134,2,gas,standard,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.35,ACT,four,121,mpfi,3.54,3.07,9.3,110,5250,21,28,12170,saab,99le
+134,135,3,gas,standard,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.35,ACT,four,121,mpfi,2.54,2.07,9.3,110,5250,21,28,15040,saab,99le
+135,136,2,gas,standard,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.38,ACT,four,121,mpfi,3.54,3.07,9.3,110,5250,21,28,15510,saab,99gle
+136,137,3,gas,turbo,2,hayon,avant,devant,2.52,4.74,1.69,1.42,1.4,double ACT,four,121,mpfi,3.54,3.07,9.0,160,5500,19,26,18150,saab,99gle
+137,138,2,gas,turbo,4,berline,avant,devant,2.52,4.74,1.69,1.42,1.42,double ACT,four,121,mpfi,3.54,3.07,9.0,160,5500,19,26,18620,saab,99e
+138,139,2,gas,standard,2,hayon,avant,devant,2.38,3.99,1.61,1.36,1.02,soupapes en tête à flux croisés,four,97,2bbl,3.62,2.36,9.0,69,4900,31,36,5118,subaru,
+139,140,2,gas,standard,2,hayon,avant,devant,2.38,4.01,1.62,1.36,1.06,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,8.7,73,4400,26,31,7053,subaru,dl
+140,141,2,gas,standard,2,hayon,4motrice,devant,2.37,4.0,1.62,1.41,1.12,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,8.7,73,4400,26,31,7603,subaru,dl
+141,142,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.07,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,9.5,82,4800,32,37,7126,subaru,
+142,143,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.1,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,9.5,82,4400,28,33,7775,subaru,brz
+143,144,0,gas,standard,4,berline,avant,devant,2.47,4.37,1.66,1.33,1.17,soupapes en tête à flux croisés,four,108,mpfi,3.62,2.64,9.0,94,5200,26,32,9960,subaru,baja
+144,145,0,gas,standard,4,berline,4motrice,devant,2.46,4.37,1.66,1.38,1.19,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,9.0,82,4800,24,25,9233,subaru,r1
+145,146,0,gas,turbo,4,berline,4motrice,devant,2.46,4.37,1.66,1.38,1.25,soupapes en tête à flux croisés,four,108,mpfi,3.62,2.64,7.7,111,4800,24,29,11259,subaru,r2
+146,147,0,gas,standard,4,break,avant,devant,2.46,4.41,1.66,1.35,1.14,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,9.0,82,4800,28,32,7463,subaru,trezia
+147,148,0,gas,standard,4,break,avant,devant,2.46,4.41,1.66,1.35,1.23,soupapes en tête à flux croisés,four,108,mpfi,3.62,2.64,9.0,94,5200,25,31,10198,subaru,tribeca
+148,149,0,gas,standard,4,break,4motrice,devant,2.46,4.41,1.66,1.39,1.21,soupapes en tête à flux croisés,four,108,2bbl,3.62,2.64,9.0,82,4800,23,29,8013,subaru,dl
+149,150,0,gas,turbo,4,break,4motrice,devant,2.46,4.41,1.66,1.39,1.32,soupapes en tête à flux croisés,four,108,mpfi,3.62,2.64,7.7,111,4800,23,23,11694,subaru,dl
+150,151,1,gas,standard,2,hayon,avant,devant,2.43,4.03,1.62,1.38,0.99,ACT,four,92,2bbl,3.05,3.03,9.0,62,4800,35,39,5348,toyota,corona mark ii
+151,152,1,gas,standard,2,hayon,avant,devant,2.43,4.03,1.62,1.38,1.02,ACT,four,92,2bbl,3.05,3.03,9.0,62,4800,31,38,6338,toyota,corona
+152,153,1,gas,standard,4,hayon,avant,devant,2.43,4.03,1.62,1.38,1.01,ACT,four,92,2bbl,3.05,3.03,9.0,62,4800,31,38,6488,toyota,corolla 1200
+153,154,0,gas,standard,4,break,avant,devant,2.43,4.31,1.62,1.5,1.14,ACT,four,92,2bbl,3.05,3.03,9.0,62,4800,31,37,6918,toyota,corona hardtop
+154,155,0,gas,standard,4,break,4motrice,devant,2.43,4.31,1.62,1.5,1.14,ACT,four,92,2bbl,3.05,3.03,9.0,62,4800,27,32,7898,toyota,corolla 1600 (sw)
+155,156,0,gas,standard,4,break,4motrice,devant,2.43,4.31,1.62,1.5,1.56,ACT,four,92,2bbl,3.05,3.03,9.0,62,4800,27,32,8778,toyota,carina
+156,157,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.04,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,30,37,6938,toyota,mark ii
+157,158,0,gas,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.05,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,30,37,7198,toyota,corolla 1200
+158,159,0,diesel,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.14,ACT,four,110,idi,3.27,3.35,22.5,56,4500,34,36,7898,toyota,corona
+159,160,0,diesel,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.14,ACT,four,110,idi,3.27,3.35,22.5,56,4500,38,47,7788,toyota,corolla
+160,161,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.35,1.05,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,38,47,7738,toyota,corona
+161,162,0,gas,standard,4,hayon,avant,devant,2.43,4.22,1.64,1.34,1.06,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,28,34,8358,toyota,corolla
+162,163,0,gas,standard,4,berline,avant,devant,2.43,4.22,1.64,1.34,1.07,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,28,34,9258,toyota,mark ii
+163,164,1,gas,standard,2,berline,arriere,devant,2.4,4.28,1.63,1.34,1.08,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,29,34,8058,toyota,corolla liftback
+164,165,1,gas,standard,2,hayon,arriere,devant,2.4,4.28,1.63,1.34,1.1,ACT,four,98,2bbl,3.19,3.03,9.0,70,4800,29,34,8238,toyota,corona
+165,166,1,gas,standard,2,berline,arriere,devant,2.4,4.28,1.63,1.34,1.13,double ACT,four,98,mpfi,3.24,3.08,9.4,112,6600,26,29,9298,toyota,celica gt liftback
+166,167,1,gas,standard,2,hayon,arriere,devant,2.4,4.28,1.63,1.34,1.15,double ACT,four,98,mpfi,3.24,3.08,9.4,112,6600,26,29,9538,toyota,corolla tercel
+167,168,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.27,ACT,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,8449,toyota,corona liftback
+168,169,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.27,ACT,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,9639,toyota,corolla
+169,170,2,gas,standard,2,hayon,arriere,devant,2.5,4.48,1.67,1.32,1.28,ACT,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,9989,toyota,starlet
+170,171,2,gas,standard,2,coupe,arriere,devant,2.5,4.48,1.67,1.32,1.34,ACT,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,11199,toyota,tercel
+171,172,2,gas,standard,2,hayon,arriere,devant,2.5,4.48,1.67,1.32,1.36,ACT,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,11549,toyota,corolla
+172,173,2,gas,standard,2,decapotable,arriere,devant,2.5,4.48,1.67,1.35,1.49,ACT,four,146,mpfi,3.62,3.5,9.3,116,4800,24,30,17669,toyota,cressida
+173,174,-1,gas,standard,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.16,ACT,four,122,mpfi,3.31,3.54,8.7,92,4200,29,34,8948,toyota,corolla
+174,175,-1,diesel,turbo,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.24,ACT,four,110,idi,3.27,3.35,22.5,73,4500,30,33,10698,toyota,celica gt
+175,176,-1,gas,standard,4,hayon,avant,devant,2.6,4.46,1.69,1.37,1.21,ACT,four,122,mpfi,3.31,3.54,8.7,92,4200,27,32,9988,toyota,corona
+176,177,-1,gas,standard,4,berline,avant,devant,2.6,4.46,1.69,1.39,1.21,ACT,four,122,mpfi,3.31,3.54,8.7,92,4200,27,32,10898,toyota,corolla
+177,178,-1,gas,standard,4,hayon,avant,devant,2.6,4.46,1.69,1.37,1.23,ACT,four,122,mpfi,3.31,3.54,8.7,92,4200,27,32,11248,toyota,mark ii
+178,179,3,gas,standard,2,hayon,arriere,devant,2.61,4.66,1.72,1.32,1.49,double ACT,six,171,mpfi,3.27,3.35,9.3,161,5200,20,24,16558,toyota,corolla liftback
+179,180,3,gas,standard,2,hayon,arriere,devant,2.61,4.66,1.72,1.32,1.51,double ACT,six,171,mpfi,3.27,3.35,9.3,161,5200,19,24,15998,toyota,corona
+180,181,-1,gas,standard,4,berline,arriere,devant,2.65,4.77,1.69,1.37,1.57,double ACT,six,171,mpfi,3.27,3.35,9.2,156,5200,20,24,15690,toyota,starlet
+181,182,-1,gas,standard,4,break,arriere,devant,2.65,4.77,1.69,1.37,1.58,double ACT,six,161,mpfi,3.27,3.35,9.2,156,5200,19,24,15750,toyota,tercel
+182,183,2,diesel,standard,2,berline,avant,devant,2.47,4.36,1.66,1.41,1.13,ACT,four,97,idi,3.01,3.4,23.0,52,4800,37,46,7775,volkswagen,rabbit
+183,184,2,gas,standard,2,berline,avant,devant,2.47,4.36,1.66,1.41,1.1,ACT,four,109,mpfi,3.19,3.4,9.0,85,5250,27,34,7975,volkswagen,1131 deluxe sedan
+184,185,2,diesel,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.13,ACT,four,97,idi,3.01,3.4,23.0,52,4800,37,46,7995,volkswagen,model 111
+185,186,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.11,ACT,four,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8195,volkswagen,type 3
+186,187,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.14,ACT,four,109,mpfi,3.19,3.4,9.0,85,5250,27,34,8495,volkswagen,411 (sw)
+187,188,2,diesel,turbo,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.16,ACT,four,97,idi,3.01,3.4,23.0,68,4500,37,42,9495,volkswagen,super beetle
+188,189,2,gas,standard,4,berline,avant,devant,2.47,4.36,1.66,1.41,1.15,ACT,four,109,mpfi,3.19,3.4,10.0,100,5500,26,32,9995,volkswagen,dasher
+189,190,3,gas,standard,2,decapotable,avant,devant,2.4,4.05,1.63,1.41,1.13,ACT,four,109,mpfi,3.19,3.4,8.5,90,5500,24,29,11595,volkswagen,dasher
+190,191,3,gas,standard,2,hayon,avant,devant,2.4,4.21,1.63,1.31,1.11,ACT,four,109,mpfi,3.19,3.4,8.5,90,5500,24,29,9980,volkswagen,rabbit
+191,192,0,gas,standard,4,berline,avant,devant,2.55,4.58,1.7,1.4,1.33,ACT,five,136,mpfi,3.19,3.4,8.5,110,5500,19,24,13295,volkswagen,rabbit
+192,193,0,diesel,turbo,4,berline,avant,devant,2.55,4.58,1.7,1.4,1.29,ACT,four,97,idi,3.01,3.4,23.0,68,4500,33,38,13845,volkswagen,rabbit custom
+193,194,0,gas,standard,4,break,avant,devant,2.55,4.65,1.7,1.4,1.28,ACT,four,109,mpfi,3.19,3.4,9.0,88,5500,25,31,12290,volkswagen,dasher
+194,195,-2,gas,standard,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.46,ACT,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,12940,volvo,145e (sw)
+195,196,-1,gas,standard,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.52,ACT,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,13415,volvo,144ea
+196,197,-2,gas,standard,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.47,ACT,four,141,mpfi,3.78,3.15,9.5,114,5400,24,28,15985,volvo,244dl
+197,198,-1,gas,standard,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.52,ACT,four,141,mpfi,3.78,3.15,9.5,114,5400,24,28,16515,volvo,245
+198,199,-2,gas,turbo,4,berline,arriere,devant,2.65,4.8,1.71,1.43,1.52,ACT,four,130,mpfi,3.62,3.15,7.5,162,5100,17,22,18420,volvo,264gl
+199,200,-1,gas,turbo,4,break,arriere,devant,2.65,4.8,1.71,1.46,1.58,ACT,four,130,mpfi,3.62,3.15,7.5,162,5100,17,22,18950,volvo,diesel
+200,201,-1,gas,standard,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.48,ACT,four,141,mpfi,3.78,3.15,9.5,114,5400,23,28,16845,volvo,145e (sw)
+201,202,-1,gas,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.52,ACT,four,141,mpfi,3.78,3.15,8.7,160,5300,19,25,19045,volvo,144ea
+202,203,-1,gas,standard,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.51,soupapes en tête à manchon,six,173,mpfi,3.58,2.87,8.8,134,5500,18,23,21485,volvo,244dl
+203,204,-1,diesel,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.61,ACT,six,145,idi,3.01,3.4,23.0,106,4800,26,27,22470,volvo,246
+204,205,-1,gas,turbo,4,berline,arriere,devant,2.77,4.8,1.75,1.41,1.53,ACT,four,141,mpfi,3.78,3.15,9.5,114,5400,19,25,22625,volvo,264gl

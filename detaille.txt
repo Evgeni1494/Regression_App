@@ -1,19 +1,19 @@
 
-colonne 3 : séparer les marques et les modeles.
+colonne 3 : séparer les marques et les modeles. o
 
-colonne 5 : c'est quoi turbo et std ?
+colonne 5 : c'est quoi turbo et std ? o
 
-colonne 6 : nombre de portes a convertir en chiffres.
+colonne 6 : nombre de portes a convertir en chiffres. o
 
-colonne 7 : Traduire les valeurs en français.
+colonne 7 : Traduire les valeurs en français. o
 
-colonne 8 :rwd : arrier fwd : devant 4wd : les 4 roues
+colonne 8 :rwd : arrier fwd : devant 4wd : les 4 roues o
 
-colonne 9 : Traduire en français.
+colonne 9 : Traduire en français. o
 
-colonne 10 - 14 : Convertir les valeurs en systeme metrique.
+colonne 10 - 14 : Convertir les valeurs en systeme metrique. o
 
-colonne 15 : Traduire en français.
+colonne 15 : Traduire en français. o 
 
 colonne 16 : remplacer par des nombres.
 
