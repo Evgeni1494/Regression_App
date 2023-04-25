@@ -1,0 +1,30 @@
+
+colonne 3 : séparer les marques et les modeles.
+
+colonne 5 : c'est quoi turbo et std ?
+
+colonne 6 : nombre de portes a convertir en chiffres.
+
+colonne 7 : Traduire les valeurs en français.
+
+colonne 8 :rwd : arrier fwd : devant 4wd : les 4 roues
+
+colonne 9 : Traduire en français.
+
+colonne 10 - 14 : Convertir les valeurs en systeme metrique.
+
+colonne 15 : Traduire en français.
+
+colonne 16 : remplacer par des nombres.
+
+colonne 17 : Convertir en metrique.
+
+colonne 18 : Traduire.
+
+colonne 19 : Convertir en cm cubes.
+
+colonne 20 : convertir les inches en 
+
+colonne 24 : Convertir galons en litre
+
+colonne 25 : Convertir galons en litre
