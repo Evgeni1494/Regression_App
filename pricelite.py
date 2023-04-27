@@ -55,34 +55,6 @@ marque = st.selectbox('Marque de la voiture',
                     'subaru', 'toyota', 'volkswagen', 'volvo'])
 modele = st.text_input('Modèle de la voiture')
 
-# Préparer les entrées utilisateur pour la prédiction
-# user_inputs = [[car_ID, 
-#                 etat_de_route, 
-#                 carburant, turbo, 
-#                 nombre_portes, 
-#                 type_vehicule,
-#                 roues_motrices,
-#                 emplacement_moteur,
-#                 empattement,
-#                 longueur_voiture,
-#                 largeur_voiture,
-#                 hauteur_voiture,
-#                 poids_vehicule,
-#                 type_moteur,
-#                 nombre_cylindres,
-#                 taille_moteur,
-#                 systeme_carburant,
-#                 taux_alésage,
-#                 course,
-#                 taux_compression,
-#                 chevaux,
-#                 tour_moteur,
-#                 consommation_ville,
-#                 consommation_autoroute,
-#                 marque,
-#                 modele,
-#                 ]]
-
 user_inputs = pd.DataFrame(data ={
     "car_ID":car_ID, 
                 "etat_de_route" : etat_de_route, 
