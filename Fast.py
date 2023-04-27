@@ -46,7 +46,7 @@ class CarPriceRequest(BaseModel):
 # Définir une route API
 @app.post("/predict_price")
 def predict_price(car: CarPriceRequest):
-    # Transformer les données d'entrée de l'utilisateur en tableau numpy
+    # Transformer les données d'entrée de l'utilisateur en DF
     input_data = pd.DataFrame(data ={"car_ID":car.car_ID,
                                      "etat_de_route":car.etat_de_route, 
                                      "carburant":car.carburant, 
