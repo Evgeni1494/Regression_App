@@ -9,7 +9,7 @@ model = joblib.load('Price_Reg_Model.joblib')
 
 # Définir l'interface utilisateur avec Streamlit
 st.title('Application de prédiction de prix des voitures')
-
+st.image('Learning_Curve.png')
 
 # Créer les champs pour les entrées utilisateur
 car_ID = 1
